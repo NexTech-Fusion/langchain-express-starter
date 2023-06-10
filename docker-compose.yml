@@ -1,0 +1,18 @@
+version: "3.7"
+
+services:
+    server:
+        build:
+            context: ./
+            target: development-build-stage
+        ports:
+            - "${APP_PORT:-3000}:3000"
+        volumes:
+            - ./:/app
+            - /app/node_modules
+        restart: "unless-stopped"
+        networks:
+            - backend
+networks:
+    backend:
+        driver: bridge

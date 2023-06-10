@@ -32,8 +32,6 @@ export class LMMService {
                 input = this.includeHistory(historyKey, input);
             }
 
-            console.log(input);
-
             // call the model
             const response = await model.call(input);
 

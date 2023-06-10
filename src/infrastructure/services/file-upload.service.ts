@@ -1,5 +1,5 @@
 import { Service } from 'typedi';
-import fs from 'fs-extra';
+import fs from 'fs';
 import { appConfig } from "@base/config/app";
 import { FileTypeNotAllowedException } from "@base/api/exceptions/FileTypeNotAllowedException";
 
@@ -14,7 +14,7 @@ export class FileUploadService {
             }
 
             const path = appConfig.trainDataPath + data.originalname;
-            await fs.writeFile(path, data.buffer);
+            fs.writeFileSync(path, data.buffer);
             return path;
         } catch (err) {
             console.log(err);

@@ -1,0 +1,23 @@
+Product: Wireless Bluetooth Earphones
+Price: $49.99
+Description: Enjoy your favorite music on the go with these wireless Bluetooth earphones. They provide high-quality sound and have a built-in microphone for hands-free calling. The earphones come with a charging case and offer up to 10 hours of playback time.
+
+Product: Smart Fitness Tracker
+Price: $79.99
+Description: Stay motivated and track your fitness goals with this smart fitness tracker. It monitors your heart rate, steps, calories burned, and sleep patterns. The tracker connects to your smartphone and provides notifications for calls and messages. It also has a built-in GPS for accurate distance tracking during outdoor workouts.
+
+Product: Instant Pot Pressure Cooker
+Price: $99.99
+Description: Cook delicious meals in a fraction of the time with this Instant Pot pressure cooker. It features multiple cooking modes, including pressure cooking, slow cooking, steaming, and sautéing. The cooker has a large capacity and comes with programmable settings for convenience. It's perfect for busy individuals and families.
+
+Product: Drone with HD Camera
+Price: $199.99
+Description: Take stunning aerial photos and videos with this drone equipped with an HD camera. It has a stable flight control system and can perform 360-degree flips and rolls. The drone comes with a remote controller and offers a range of up to 500 meters. It's suitable for both beginners and experienced drone enthusiasts.
+
+Product: Portable Bluetooth Speaker
+Price: $29.99
+Description: Enjoy your favorite tunes anywhere with this portable Bluetooth speaker. It delivers clear and immersive sound and has a built-in rechargeable battery that offers up to 10 hours of playtime. The speaker is compact and lightweight, making it easy to carry on outdoor adventures or to parties.
+
+Product: Electric Toothbrush
+Price: $39.99
+Description: Upgrade your oral care routine with this electric toothbrush. It features oscillating bristles that provide a thorough cleaning and remove plaque effectively. The toothbrush has multiple brushing modes, a built-in timer, and comes with replaceable brush heads. It's designed to improve gum health and provide a dentist-clean feeling.

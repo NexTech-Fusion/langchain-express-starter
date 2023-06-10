@@ -1,7 +1,7 @@
 import { HistoryService } from '../../api/services/history.service';
 import { Service } from "typedi";
-import * as fs from 'fs-extra';
 import { appConfig } from "@base/config/app";
+import fs from 'fs';
 
 @Service()
 export class FileStorageService {
